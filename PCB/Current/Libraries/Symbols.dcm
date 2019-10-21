@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP F-3188
+F http://www.makerfabs.com/desfile/files/CSR8645%20v1.5.pdf
+$ENDCMP
+#
+$CMP FS312F
+F https://www.ic-fortune.com/upload/Download/FS312F-G-DS-12_EN.pdf
+$ENDCMP
+#
+$CMP FS8205A
+F https://www.ic-fortune.com/upload/Download/FS8205A-DS-12_EN.pdf
+$ENDCMP
+#
+$CMP TP4056
+F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+$ENDCMP
+#
+#End Doc Library
