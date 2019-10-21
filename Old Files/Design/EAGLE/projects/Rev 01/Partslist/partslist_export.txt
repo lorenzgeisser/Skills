@@ -1,0 +1,127 @@
+Partlist
+
+Exported from Schematic.sch at 8/4/2018 7:06 PM
+
+EAGLE Version 9.1.1 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                     Device                    Package                   Library    Sheet
+
+C1       47nF                      CAPACITOR                 R0603                     Schematic  1
+C2       47nF                      CAPACITOR                 R0603                     Schematic  1
+C3       47nF                      CAPACITOR                 R0603                     Schematic  1
+C4       47nF                      CAPACITOR                 R0603                     Schematic  1
+C5       1uF                       CAPACITOR                 R0603                     Schematic  1
+C6       1uF                       CAPACITOR                 R0603                     Schematic  1
+C7       1uF                       CAPACITOR                 R0603                     Schematic  1
+C8       1uF                       CAPACITOR                 R0603                     Schematic  1
+C9       47nF                      CAPACITOR                 R0603                     Schematic  1
+C10      47nF                      CAPACITOR                 R0603                     Schematic  1
+C11      47nF                      CAPACITOR                 R0603                     Schematic  1
+C12      100nF                     CAPACITOR                 R0603                     Schematic  1
+C13      470nF                     CAPACITOR                 R0603                     Schematic  1
+C14      10nF                      CAPACITOR                 R0603                     Schematic  1
+C15      100nF                     CAPACITOR                 R0603                     Schematic  1
+C16      1µF                       CAPACITOR                 R0603                     Schematic  1
+C17      100nF                     CAPACITOR                 R0603                     Schematic  1
+C18      100nF                     CAPACITOR                 R0603                     Schematic  1
+C19      10uF                      CAPACITOR1206             1206                      Schematic  1
+C20      10uF                      CAPACITOR1206             1206                      Schematic  1
+C21      2.2uF                     CAPACITOR                 R0603                     Schematic  1
+C22      47uF                      CPOL-EUE2-4               E2-4                      Schematic  1
+C23      100nF                     CAPACITOR                 R0603                     Schematic  1
+C24      47uF                      CPOL-EUE2-4               E2-4                      Schematic  1
+C25      100nF                     CAPACITOR                 R0603                     Schematic  1
+C26      1uF                       CAPACITOR                 R0603                     Schematic  1
+C27      10uF                      CAPACITOR1206             1206                      Schematic  1
+C28      10uF                      CAPACITOR1206             1206                      Schematic  1
+C29      10uF                      CAPACITOR1206             1206                      Schematic  1
+C30      100nF                     CAPACITOR                 R0603                     Schematic  1
+C31      1nF                       CAPACITOR                 R0603                     Schematic  1
+C32      10nF                      CAPACITOR                 R0603                     Schematic  1
+C33      10uF                      CAPACITOR1206             1206                      Schematic  1
+C34      10uF                      CAPACITOR1206             1206                      Schematic  1
+C35      100nF                     CAPACITOR                 R0603                     Schematic  1
+C36      100nF                     CAPACITOR                 R0603                     Schematic  1
+C37      47uF                      CPOL-EUE2-4               E2-4                      Schematic  1
+D1                                 LEDCHIPLED_0805           CHIPLED_0805              Schematic  1
+D2                                 LEDCHIPLED_0805           CHIPLED_0805              Schematic  1
+J1       JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J2       JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J3       JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J4       JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J5       JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J6       JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J7       JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J8       JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J9       JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J10      JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J11      JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J12      JUMPER_2                  JUMPER_2                  PIN_HEADER_2_2            Schematic  1
+J13                                JP2E                      JP2                       Schematic  1
+J14                                JP2E                      JP2                       Schematic  1
+J15                                JP2E                      JP2                       Schematic  1
+J16                                JP2E                      JP2                       Schematic  1
+J17                                JP2E                      JP2                       Schematic  1
+J18                                JP2E                      JP2                       Schematic  1
+J19                                JP2E                      JP2                       Schematic  1
+J20                                JP2E                      JP2                       Schematic  1
+J21                                JP2E                      JP2                       Schematic  1
+L1       1.5uH                     INDUCTOR6519              INDUCTOR2345              Schematic  1
+P1       TYPE-_BREAKOUT            TYPE-_BREAKOUT            TYPE-C                    Schematic  1
+P2       HEADER_2TERM              HEADER_2TERM              SCREW_TERMINAL_2P         Schematic  1
+P3       HEADER_2TERM              HEADER_2TERM              SCREW_TERMINAL_2P         Schematic  1
+P4       HEADER_2TERM              HEADER_2TERM              SCREW_TERMINAL_2P         Schematic  1
+P5       HEADER_2TERM              HEADER_2TERM              SCREW_TERMINAL_2P         Schematic  1
+P6       HEADER_2TERM              HEADER_2TERM              SCREW_TERMINAL_2P         Schematic  1
+P7       HEADER_2TERM              HEADER_2TERM              SCREW_TERMINAL_2P         Schematic  1
+P8       AUX                       AUX                       AUDIO                     Schematic  1
+P9       HEADER_12                 HEADER_12                 HEADER_12                 Schematic  1
+P10      HEADER_16                 HEADER_16                 HEADER_16                 Schematic  1
+P11      HEADER_16                 HEADER_16                 HEADER_16                 Schematic  1
+P12      HEADER_2TERM              HEADER_2TERM              SCREW_TERMINAL_2P         Schematic  1
+P13      HEADER_2TERM              HEADER_2TERM              SCREW_TERMINAL_2P         Schematic  1
+P14      TYPE-C                    TYPE-C                    TYPE-C                    Schematic  1
+R1       64.9k                     RESISTOR0603              R0603                     Schematic  1
+R2       64.9k                     RESISTOR0603              R0603                     Schematic  1
+R3       1k                        RESISTOR0603              R0603                     Schematic  1
+R4       28k                       RESISTOR0603              R0603                     Schematic  1
+R5       64.9k                     RESISTOR0603              R0603                     Schematic  1
+R6       64.9k                     RESISTOR0603              R0603                     Schematic  1
+R7       28k                       RESISTOR0603              R0603                     Schematic  1
+R8       1k                        RESISTOR0603              R0603                     Schematic  1
+R9       1.1k                      RESISTOR0603              R0603                     Schematic  1
+R10      20k                       POTTRIMMER                TRIMMER                   Schematic  1
+R11      20k                       POTTRIMMER                TRIMMER                   Schematic  1
+R12      POT                       POT                       POT                       Schematic  1
+R13      1k                        RESISTOR0603              R0603                     Schematic  1
+R14      20k                       POTTRIMMER                TRIMMER                   Schematic  1
+R15      100R                      RESISTOR0603              R0603                     Schematic  1
+R16      13k                       RESISTOR0603              R0603                     Schematic  1
+R17      1.1k                      RESISTOR0603              R0603                     Schematic  1
+R18      7.5k                      RESISTOR0603              R0603                     Schematic  1
+R19      1.1k                      RESISTOR0603              R0603                     Schematic  1
+R20      13k                       RESISTOR0603              R0603                     Schematic  1
+R21      28k                       RESISTOR0603              R0603                     Schematic  1
+R22      7.5k                      RESISTOR0603              R0603                     Schematic  1
+R23      1k                        RESISTOR0603              R0603                     Schematic  1
+R24      20k                       POTTRIMMER                TRIMMER                   Schematic  1
+R25      2k                        RESISTOR0603              R0603                     Schematic  1
+R26      255k                      RESISTOR0603              R0603                     Schematic  1
+R27      825k                      RESISTOR0603              R0603                     Schematic  1
+R28      92k                       RESISTOR0603              R0603                     Schematic  1
+R29      44.2k                     RESISTOR0603              R0603                     Schematic  1
+R30      105k                      RESISTOR0603              R0603                     Schematic  1
+S1       SWITCH                    SWITCH                    FE06                      Schematic  1
+U1       MAX9709                   MAX9709                   TQFN-EP                   Schematic  1
+U2       MAX4478                   MAX4478                   TSSOP-14                  Schematic  1
+U3       TSR12433                  TSR12433                  TSR1                      Schematic  1
+U4       WIRELESS-BLUETOOTH-BK8000 WIRELESS-BLUETOOTH-BK8000 WIRELESS-BLUETOOTH-BK8000 Schematic  1
+U5       FS8205                    FS8205                    SOP65P640X120-8N          Schematic  1
+U6       FS8205                    FS8205                    SOP65P640X120-8N          Schematic  1
+U7       FS8205                    FS8205                    SOP65P640X120-8N          Schematic  1
+U8       FS312F                    FS312F                    TSOT23-6                  Schematic  1
+U9       TP4056                    TP4056                    SOP-8                     Schematic  1
+U10                                TPS61088                  QFN50P450X350X100-21N     Schematic  1
+U11      REG1117                   REG1117                   SOT223                    burr-brown 1
