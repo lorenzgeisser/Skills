@@ -467,10 +467,10 @@ Wire Wire Line
 Wire Wire Line
 	4850 2450 4850 2550
 $Comp
-L charger_stepup-cache:R R?
+L charger_stepup-cache:R R2
 U 1 1 5DB15930
 P 4850 2700
-F 0 "R?" H 4920 2746 50  0000 L CNN
+F 0 "R2" H 4920 2746 50  0000 L CNN
 F 1 "10k" H 4920 2655 50  0000 L CNN
 F 2 "" V 4780 2700 50  0001 C CNN
 F 3 "" H 4850 2700 50  0001 C CNN

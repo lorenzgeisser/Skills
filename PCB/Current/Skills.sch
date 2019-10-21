@@ -441,7 +441,7 @@ NoConn ~ 2900 4750
 NoConn ~ 2900 4550
 NoConn ~ 2900 4450
 $Comp
-L charger_stepup-cache:R R3
+L Skills-rescue:R-charger_stepup-cache R3
 U 1 1 5DB0A43A
 P 3900 2400
 F 0 "R3" H 3970 2446 50  0000 L CNN
@@ -452,7 +452,7 @@ F 3 "" H 3900 2400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L charger_stepup-cache:R R4
+L Skills-rescue:R-charger_stepup-cache R4
 U 1 1 5DB0ACB2
 P 4750 4600
 F 0 "R4" H 4820 4646 50  0000 L CNN
@@ -467,7 +467,7 @@ Wire Wire Line
 Wire Wire Line
 	4850 2450 4850 2550
 $Comp
-L charger_stepup-cache:R R2
+L Skills-rescue:R-charger_stepup-cache R2
 U 1 1 5DB15930
 P 4850 2700
 F 0 "R2" H 4920 2746 50  0000 L CNN
