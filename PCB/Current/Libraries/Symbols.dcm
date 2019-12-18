@@ -12,8 +12,16 @@ $CMP FS8205A
 F https://www.ic-fortune.com/upload/Download/FS8205A-DS-12_EN.pdf
 $ENDCMP
 #
+$CMP MAX9744
+F https://cdn-shop.adafruit.com/datasheets/MAX9744.pdf
+$ENDCMP
+#
 $CMP TP4056
 F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+$ENDCMP
+#
+$CMP TPS61088
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61088
 $ENDCMP
 #
 #End Doc Library
