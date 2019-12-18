@@ -940,7 +940,7 @@ U 1 1 5DB1182E
 P 15900 2400
 F 0 "U5" H 16050 3050 60  0000 C CNN
 F 1 "TPS61088" H 16200 2950 60  0000 C CNN
-F 2 "" H 15900 2340 60  0001 C CNN
+F 2 "Package_DFN_QFN:Texas_VQFN-RHL-20_ThermalVias" H 15900 2340 60  0001 C CNN
 F 3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61088" H 15900 2400 60  0001 C CNN
 	1    15900 2400
 	1    0    0    -1  
