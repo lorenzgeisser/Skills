@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name Symbols)(type Legacy)(uri ${KIPRJMOD}/Libraries/Symbols.lib)(options "")(descr ""))
-  (lib (name Skills-rescue)(type Legacy)(uri ${KIPRJMOD}/Skills-rescue.lib)(options "")(descr ""))
-)
