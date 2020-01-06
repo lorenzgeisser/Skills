@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Molex)(type KiCad)(uri ${KIPRJMOD}/Libraries/Molex.pretty)(options "")(descr ""))
+  (lib (name Footprint)(type KiCad)(uri ${KIPRJMOD}/Libraries/Footprint.pretty)(options "")(descr ""))
 )
