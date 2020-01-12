@@ -491,7 +491,7 @@ U 1 1 5E039BD6
 P 9100 -1850
 F 0 "F1" H 9160 -1804 50  0000 L CNN
 F 1 "5A" H 9160 -1895 50  0000 L CNN
-F 2 "Fuse:Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open" V 9030 -1850 50  0001 C CNN
+F 2 "Fuse:Fuse_1206_3216Metric" V 9030 -1850 50  0001 C CNN
 F 3 "~" H 9100 -1850 50  0001 C CNN
 	1    9100 -1850
 	1    0    0    -1  
