@@ -1848,7 +1848,7 @@ L Symbols:CAT809 U7
 U 1 1 5EEC5F43
 P 11700 1650
 F 0 "U7" H 11700 1975 50  0000 C CNN
-F 1 "CAT809" H 11700 1884 50  0000 C CNN
+F 1 "CAT809RTBI-GT3" H 11700 1884 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 11650 1600 50  0001 C CNN
 F 3 "" H 11650 1600 50  0001 C CNN
 	1    11700 1650
@@ -1953,4 +1953,17 @@ Wire Wire Line
 	12400 2050 12650 2050
 Wire Wire Line
 	12300 1700 12300 1800
+$Comp
+L MCU_Microchip_ATtiny:ATtiny13A-PU U?
+U 1 1 5EDE5AF5
+P 12300 5600
+F 0 "U?" H 11771 5646 50  0000 R CNN
+F 1 "ATtiny13A-PU" H 11771 5555 50  0000 R CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 12300 5600 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8126.pdf" H 12300 5600 50  0001 C CNN
+	1    12300 5600
+	1    0    0    -1  
+$EndComp
+Text Notes 13650 5600 0    50   ~ 0
+fadn wenn am laden\nblinken wenn batt zu tief\nleuchten wenn on\n\n1.1V Ref!!
 $EndSCHEMATC
